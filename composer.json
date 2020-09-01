@@ -1,4 +1,4 @@
-composer install
+
 {
     "name": "your-vendor-name/package-name",
     "description": "A short description of what your package does",
@@ -7,3 +7,4 @@ composer install
         "another-vendor/package": "1.*"
     }
 }
+composer install
