@@ -1,3 +1,4 @@
+composer install
 {
     "name": "your-vendor-name/package-name",
     "description": "A short description of what your package does",
