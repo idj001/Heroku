@@ -1,10 +1,8 @@
-
 {
-    "name": "your-vendor-name/package-name",
-    "description": "A short description of what your package does",
+    "name": "Hangman",
+    "description": "Help bring hangman to life",
     "require": {
         "php": "^7.2",
         "another-vendor/package": "1.*"
     }
 }
-composer install
