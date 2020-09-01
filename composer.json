@@ -8,7 +8,7 @@
             "email": "name@domain.com"
         }
     ],
-    "require": {},
+    "require": {"php": "~7.2.0"},
     "require-dev": {
         "brainmaestro/composer-git-hooks": "^2.7",
         "friendsofphp/php-cs-fixer": "^2.15",
